@@ -1,4 +1,4 @@
-In this video, what was the most interesting story or idea for you?
+1. In this video, what was the most interesting story or idea for you?
 Ah, the idea of "tiny habits" to create big changes is an interesting thing to do in life.
 You can add new habits to existing routines. For example, after coming home, you  could properly arrange things.
 ## Easy-to-Start Tiny Habits ##:
@@ -7,7 +7,7 @@ Write down one thing you’re grateful for before bed.
 Drink a glass of water before every meal.
 
 
-How can you use B = MAP to make making new habits easier? What are M, A and P?
+2. How can you use B = MAP to make making new habits easier? What are M, A and P?
 Motivation: You want to feel calmer and less stressed.
 Ability: Start with 1-minute meditations instead of 10 minutes.
 Prompt: Meditate right after waking up.
@@ -20,13 +20,13 @@ A - Ability
 P - Prompt.
 
 
-Why it is important to "Shine" or Celebrate after each successful completion of habit? (This is the most important concept in today's topic. Whatever you celebrate becomes a habit).
+3. Why it is important to "Shine" or Celebrate after each successful completion of habit? (This is the most important concept in today's topic. Whatever you celebrate becomes a habit).
 Celebrating a small success is motivating ourselves, and we can make it more of a habit.
 Do a small first pump or a happy dance.
 Say “I did it!” out loud.
 
 
-In this video, what was the most interesting story or idea for you?
+4. In this video, what was the most interesting story or idea for you?
 1. Short-Term Feedback for Long-Term Habits
 Celebrate small wins to make the process enjoyable. Immediate rewards help override the delayed gratification problem of good habits.
 Writing daily makes you identify as a writer.
@@ -36,19 +36,19 @@ Like the ancient story of the ship, change happens one "plank" at a time. You do
 Over time, habits don’t just change your outcomes—they change who you are.
 
 
-What is the book's perspective about Identity?
+5. What is the book's perspective about Identity?
 The habits you maintain are an expression of your current identity.
 Identity Drives Long-Term Motivation
 When a habit aligns with your identity, it’s intrinsically motivating, not something you need external rewards for.
 
-Write about the book's perspective on how to make a habit easier to do?
+6. Write about the book's perspective on how to make a habit easier to do?
 Reduce Friction
 Friction refers to anything that makes it harder to follow through with a habit. The more steps or effort involved, the less likely you are to do it.
 Key Insight: "The easier a behavior is, the more likely it is to occur."
 Use Technology to Your Advantage
 Reduce the Immediate Rewards
 
-Pick one habit that you would like to do more of? What are the steps that you can take to make it make the cue obvious or the habit more attractive or easy and or response satisfying?
+7. Pick one habit that you would like to do more of? What are the steps that you can take to make it make the cue obvious or the habit more attractive or easy and or response satisfying?
 Steps to Make the Habit Easier and More Attractive
 Make the Cue Obvious:
 Set a daily alarm or reminder on my phone in the evening labeled “Reading Time.”
@@ -62,7 +62,7 @@ Download books to my phone or Kindle so I always have access, even when I’m no
 Make the Response Satisfying:
 Share my progress with friends or in a book club for accountability and encouragement.
 
-Pick one habit that you would like to eliminate or do less of? What are the steps that you can take to make it make the cue invisible or the process unattractive or hard or the response unsatisfying?
+8. Pick one habit that you would like to eliminate or do less of? What are the steps that you can take to make it make the cue invisible or the process unattractive or hard or the response unsatisfying?
 Make the Cue Invisible:
 Keep all snack foods out of sight, such as placing them in a cupboard or pantry that is harder to access at night.
 Make the Process Unattractive:
