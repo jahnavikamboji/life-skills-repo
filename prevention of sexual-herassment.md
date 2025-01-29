@@ -1,3 +1,4 @@
+# prevention of sexual harrasment:
 Sexual harassment is unacceptable in any setting, whether at work, in public, or elsewhere.
 Understanding the different types of sexual harassment can help you recognize when it occurs and take action. 
 If you or a loved one believe you may be a victim of sexual harassment, it’s crucial to speak up. We encourage you to schedule a confidential consultation with one of our attorneys as soon as possible.
